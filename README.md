@@ -15,7 +15,7 @@
 <a href="https://github.com/codeadamca/arduino-from-nodejs">
 <img width='49%' align="center"src="https://github-readme-stats.vercel.app/api/pin/?username=codeadamca&repo=arduino-from-nodejs" />
 </a>
-<br><br>
+&nbsp;
 <a href="https://github.com/codeadamca/arduino-to-nodejs">
 <img width='49%' align="center"src="https://github-readme-stats.vercel.app/api/pin/?username=codeadamca&repo=arduino-to-nodejs" />
 </a>
