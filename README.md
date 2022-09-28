@@ -14,7 +14,7 @@
 
 <p align="center">
 <a href="https://github.com/codeadamca">
-<img width='49%' align="center"src="https://github-readme-stats.vercel.app/api/pin/?username=codeadamca&repo=arduino-from-nodejs" />
+<img width='49%' align="center"src="https://github-readme-stats.vercel.app/api/pin/?username=codeadamca&repo=arduino-from-nodejs&layout=compact" />
 </a>
 <span>&nbsp;</span>
 </p>
