@@ -14,7 +14,10 @@
 
 * [codeadam.ca](https://codeadam.ca)
 
-[![YouTube Badge](https://img.shields.io/badge/-@Adam%20Thomas-EB0633?style=flat-square&labelColor=EB0633&logo=youtube&logoColor=white&link=https://www.youtube.com/channel/UCvn-c8MnpjythwWKDi5qMvA)](https://www.youtube.com/channel/UCvn-c8MnpjythwWKDi5qMvA) [![Twitter Badge](https://img.shields.io/badge/-@CodeAdamCa-EB0633?style=flat-square&labelColor=EB0633&logo=twitter&logoColor=white&link=https://twitter.com/codeadamca/)](https://twitter.com/codeadamca/) [![Instagram Badge](https://img.shields.io/badge/-@CodeAdamCa-EB0633?style=flat-square&labelColor=EB0633&logo=instagram&logoColor=white&link=[https://twitter.com/codeadamca/](https://www.instagram.com/codeadamca/))]([https://twitter.com/codeadamca/](https://www.instagram.com/codeadamca/)) 
+[![YouTube Badge](https://img.shields.io/badge/-@Adam%20Thomas-EB0633?style=flat-square&labelColor=EB0633&logo=youtube&logoColor=white&link=https://www.youtube.com/channel/UCvn-c8MnpjythwWKDi5qMvA)](https://www.youtube.com/channel/UCvn-c8MnpjythwWKDi5qMvA) 
+[![Twitter Badge](https://img.shields.io/badge/-@CodeAdamCa-EB0633?style=flat-square&labelColor=EB0633&logo=twitter&logoColor=white&link=https://twitter.com/codeadamca/)](https://twitter.com/codeadamca/) 
+[![Instagram Badge](https://img.shields.io/badge/-@CodeAdamCa-EB0633?style=flat-square&labelColor=EB0633&logo=instagram&logoColor=white&link=https://www.instagram.com/codeadamca/)](https://www.instagram.com/codeadamca/)
+[![LinkedIn Badge](https://img.shields.io/badge/-@Adam%20Thomas-EB0633?style=flat-square&labelColor=EB0633&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/adam-thomas-6b563012)](https://www.linkedin.com/in/adam-thomas-6b563012)
 
 
 
