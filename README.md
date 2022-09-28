@@ -8,9 +8,7 @@
 
 [![](https://github-readme-stats.vercel.app/api?username=codeadamca&show_icons=true)](https://github.com/codeadamca)
 
-[![](https://github-readme-stats.vercel.app/api/top-langs/?username=codeadamca&layout=compact)](https://github.com/codeadamca)
-
-[![](https://github-readme-stats.vercel.app/api/wakatime/?username=codeadamca&layout=compact)](https://github.com/codeadamca)
+[![](https://github-readme-stats.vercel.app/api/top-langs/?username=codeadamca)](https://github.com/codeadamca)
 
 ## Related Links
 
