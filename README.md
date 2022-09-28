@@ -9,4 +9,12 @@
 
 ## Related Links
 
+* [codeadam.ca](https://codeadam.ca)
 
+[![YouTube Badge](https://img.shields.io/badge/-@Adam Thomas?style=flat-square&labelColor=c4302b&logo=youtube&logoColor=white&link=https://www.youtube.com/channel/UCvn-c8MnpjythwWKDi5qMvA)](https://www.youtube.com/channel/UCvn-c8MnpjythwWKDi5qMvA)
+
+
+
+<a href="https://codeadam.ca">
+<img src="https://codeadam.ca/images/code-block.png" width="100">
+</a>
