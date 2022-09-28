@@ -11,7 +11,7 @@
 
 * [codeadam.ca](https://codeadam.ca)
 
-[![YouTube Badge](https://img.shields.io/badge/-@AdamThomas-c4302b?style=flat-square&labelColor=c4302b&logo=youtube&logoColor=white&link=https://www.youtube.com/channel/UCvn-c8MnpjythwWKDi5qMvA)](https://www.youtube.com/channel/UCvn-c8MnpjythwWKDi5qMvA)
+[![YouTube Badge](https://img.shields.io/badge/-@Adam%20Thomas-EB0633?style=flat-square&labelColor=EB0633&logo=youtube&logoColor=white&link=https://www.youtube.com/channel/UCvn-c8MnpjythwWKDi5qMvA)](https://www.youtube.com/channel/UCvn-c8MnpjythwWKDi5qMvA)
 
 
 
