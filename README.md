@@ -6,6 +6,8 @@ I Teach Code! Self-taught full-stack developer. Learning code and teaching code 
 
 [![](https://github-readme-stats.vercel.app/api/top-langs/?username=codeadamca&layout=compact)](https://github.com/codeadamca)
 
+<!---
+
 ## Pinned
 
 <a href="https://github.com/codeadamca/arduino-from-nodejs">
@@ -24,7 +26,7 @@ I Teach Code! Self-taught full-stack developer. Learning code and teaching code 
 <img width='49%' align="center"src="https://github-readme-stats.vercel.app/api/pin/?username=codeadamca&repo=php-docker" />
 </a>
 
-## Related Links
+--->
 
 [![LinkedIn Badge](https://img.shields.io/badge/LINKEDIN-0183BF?style=flat-square&labelColor=0183BF&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/adam-thomas-6b563012)](https://www.linkedin.com/in/adam-thomas-6b563012)
 [![Facebook Badge](https://img.shields.io/badge/FACEBOOK-3C5A9A?style=flat-square&labelColor=3C5A9A&logo=facebook&logoColor=white&link=https://www.facebook.com/adambenjaminthomas)](https://www.facebook.com/adambenjaminthomas)
