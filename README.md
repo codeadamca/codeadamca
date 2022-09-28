@@ -1,8 +1,6 @@
 # Adam Thomas
 
-I Teach Code!
-
-Self-taught full-stack developer. Learning code and teaching code at Humber College, Toronto, Canada.
+I Teach Code! Self-taught full-stack developer. Learning code and teaching code at Humber College, Toronto, Canada.
 
 [![](https://github-readme-stats.vercel.app/api?username=codeadamca&show_icons=true)](https://github.com/codeadamca)
 
