@@ -4,6 +4,8 @@ I Teach Code! Self-taught full-stack developer. Learning code and teaching code 
 
 Learn more about me at [codeadam.ca](https://codeadam.ca).
 
+Working on [BrickMMO](https://brickmmo.com/) for fun. [LiveCode](https://livecode.codeadam.ca/) and [LiveCounter](https://pages.codeadam.ca/livecounter/) too!
+
 <!---
 
 [![](https://github-readme-stats.vercel.app/api?username=codeadamca&show_icons=true)](https://github.com/codeadamca)
