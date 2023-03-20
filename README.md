@@ -44,6 +44,8 @@ Working on [BrickMMO](https://brickmmo.com/) for fun! [LiveCode](https://livecod
 [![Twitter Badge](https://img.shields.io/badge/TWITTER-24A9E2?style=flat-square&labelColor=24A9E2&logo=twitter&logoColor=white&link=https://twitter.com/codeadamca/)](https://twitter.com/codeadamca/) 
 [![Instagram Badge](https://img.shields.io/badge/INSTAGRAM-2C689E?style=flat-square&labelColor=2C689E&logo=instagram&logoColor=white&link=https://www.instagram.com/codeadamca/)](https://www.instagram.com/codeadamca/)
 
+***
+
 <a href="https://codeadam.ca">
 <img src="https://codeadam.ca/images/code-block.png" width="100">
 </a>
