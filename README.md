@@ -38,17 +38,18 @@ Working on [BrickMMO](https://brickmmo.com/) for fun! [LiveCode](https://livecod
 
 ***
 
+[![GitHub Streak](https://streak-stats.demolab.com?user=codeadamca&theme=dark&hide_border=true&type=png&background=00000000&ring=EB741E&fire=EB062C&currStreakLabel=EB062C&sideNums=FFFFFF&sideLabels=FFFFFF&stroke=FFFFFF&dates=FFFFFF&currStreakNum=FFFFFF)](https://git.io/streak-stats)
+
+***
+
+
+
 [![LinkedIn Badge](https://img.shields.io/badge/LINKEDIN-0183BF?style=flat-square&labelColor=0183BF&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/adam-thomas-6b563012)](https://www.linkedin.com/in/adam-thomas-6b563012)
 [![Facebook Badge](https://img.shields.io/badge/FACEBOOK-3C5A9A?style=flat-square&labelColor=3C5A9A&logo=facebook&logoColor=white&link=https://www.facebook.com/adambenjaminthomas)](https://www.facebook.com/adambenjaminthomas)
 [![YouTube Badge](https://img.shields.io/badge/YOUTUBE-FA0601?style=flat-square&labelColor=FA0601&logo=youtube&logoColor=white&link=https://www.youtube.com/channel/UCvn-c8MnpjythwWKDi5qMvA)](https://www.youtube.com/channel/UCvn-c8MnpjythwWKDi5qMvA) 
 [![Twitter Badge](https://img.shields.io/badge/TWITTER-24A9E2?style=flat-square&labelColor=24A9E2&logo=twitter&logoColor=white&link=https://twitter.com/codeadamca/)](https://twitter.com/codeadamca/) 
 [![Instagram Badge](https://img.shields.io/badge/INSTAGRAM-2C689E?style=flat-square&labelColor=2C689E&logo=instagram&logoColor=white&link=https://www.instagram.com/codeadamca/)](https://www.instagram.com/codeadamca/)
 
-***
-
-[![GitHub Streak](https://streak-stats.demolab.com?user=codeadamca&theme=dark&hide_border=true&type=png&background=00000000&ring=EB741E&fire=EB062C&currStreakLabel=EB062C&sideNums=FFFFFF&sideLabels=FFFFFF&stroke=FFFFFF&dates=FFFFFF&currStreakNum=FFFFFF)](https://git.io/streak-stats)
-
 <a href="https://codeadam.ca">
 <img src="https://codeadam.ca/images/code-block.png" width="100">
 </a>
-
