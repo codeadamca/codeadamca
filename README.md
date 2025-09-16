@@ -8,8 +8,6 @@ Learn more about me at [codeadam.ca](https://codeadam.ca).
 
 Working on [BrickMMO](https://brickmmo.com/) for fun! [LiveCode](https://livecode.codeadam.ca/) and [LiveCounter](https://pages.codeadam.ca/livecounter/) too!
 
-<img src="Ad.png" width="250">
-
 <!---
 
 [![](https://github-readme-stats.vercel.app/api?username=codeadamca&show_icons=true)](https://github.com/codeadamca)
