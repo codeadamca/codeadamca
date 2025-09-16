@@ -50,3 +50,7 @@ Working on [BrickMMO](https://brickmmo.com/) for fun! [LiveCode](https://livecod
 <a href="https://codeadam.ca">
 <img src="https://cdn.codeadam.ca/images@1.0.0/codeadam-logo-coloured-horizontal.png" width="200">
 </a>
+
+
+![codeadamca stats](https://github-readme-stats.vercel.app/api?username=codeadamca&show_icons=true&theme=radical)
+
